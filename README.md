@@ -5,6 +5,7 @@
   1. 자신의 위치를 표시해준다.
   2. 1시간 간격으로 앱이 꺼지더라도 자신의 위치를 기록하여 데이터를 생성시킨다.
   3. 앱을 켰을 때 그 동안의 기록을 보여준다.
+  4. 부가기능 (지도의 확대 및 축소기능 , 지도 모드 변화기능(지형지도, 개형지도 외 2개), 건물 및 지역 검색 기능)
 <img width="300" alt="스크린샷 2020-05-19 오전 3 23 13" src="https://user-images.githubusercontent.com/47051379/82246899-7ec62580-9980-11ea-812e-dfe1a057748c.png">
 <img width="300" alt="스크린샷 2020-05-19 오전 3 23 18" src="https://user-images.githubusercontent.com/47051379/82246903-808fe900-9980-11ea-81cd-9a1b76ebb0a8.png">
 <img width="300" alt="스크린샷 2020-05-19 오전 3 23 36" src="https://user-images.githubusercontent.com/47051379/82246904-81287f80-9980-11ea-9668-7209bc358d5f.png">
